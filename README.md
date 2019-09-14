@@ -1,2 +1,2 @@
-# dev-cheatsheet
-A collection of "How to" for common scenario.
+# Index
+A collection of "How to" for common development scenario.
